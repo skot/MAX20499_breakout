@@ -1,6 +1,6 @@
 (footprint "MAX20499" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62A586B8)
+  (tedit 62A6DB71)
   (attr smd)
   (fp_text reference "REF**" (at 1.455 -3.23 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -17,8 +17,8 @@
   (fp_rect (start -1.75 -2) (end 1.75 2) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 53d2ef7f-7891-4edd-96e0-baf73a7caad2))
   (fp_circle (center -2.55 -1.185) (end -2.29776 -1.185) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp a680a6a8-64c7-4976-b802-2d5f39d4bd0e))
   (pad "1" smd rect (at -1.5875 -0.825 90) (size 0.3 0.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cf8b43e6-5fe3-4083-b207-5b5dbd0af2af))
-  (pad "3" smd rect (at -1.5875 -0.325 90) (size 0.3 0.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cf06b487-706f-4f90-abd4-165013fe6657))
-  (pad "4" smd custom (at -2.05 0.05) (size 0 0) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "2" smd rect (at -1.5875 -0.325 90) (size 0.3 0.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cf06b487-706f-4f90-abd4-165013fe6657))
+  (pad "3" smd custom (at -2.05 0.05) (size 0 0) (layers "F.Cu" "F.Paste" "F.Mask")
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -30,6 +30,7 @@
           (xy 1.55 0)
         ) (width 0.001) (fill yes))
     ) (tstamp 8c309ffe-d8e2-4030-b07c-621f460fab40))
+  (pad "4" smd circle (at -1.52 0.995) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 331d14c6-fab9-40b7-92ff-996d4fe14e95))
   (pad "5" smd custom (at -2.05 0.7) (size 0 0) (layers "F.Cu" "F.Paste" "F.Mask")
     (options (clearance outline) (anchor rect))
     (primitives
@@ -67,6 +68,7 @@
           (xy 0 0)
         ) (width 0.0001) (fill yes))
     ) (tstamp ebd64119-e89d-4038-bae3-8675ef85d90d))
+  (pad "8" smd circle (at 1.465 0.985) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4d75bb5d-ea73-46e3-b5a8-101ec9bb8359))
   (pad "9" smd custom (at 2.05 0.05) (size 0 0) (layers "F.Cu" "F.Paste" "F.Mask")
     (options (clearance outline) (anchor rect))
     (primitives
