@@ -2195,7 +2195,7 @@
   (gr_text "SDA" (at 152.92 91.93 90) (layer "B.SilkS") (tstamp ecdb62fc-69f7-4a01-8e91-3cf641de04dd)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "MAX20499 Low Voltage Buck R1" (at 106.17 108.94) (layer "F.SilkS") (tstamp db01ed3b-b83f-4e91-ab59-cf7ef2b5b281)
+  (gr_text "MAX20499 Low Voltage Buck v1" (at 106.17 108.94) (layer "F.SilkS") (tstamp db01ed3b-b83f-4e91-ab59-cf7ef2b5b281)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
