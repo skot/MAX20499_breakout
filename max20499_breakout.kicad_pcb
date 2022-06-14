@@ -101,7 +101,7 @@
 
   (footprint "low_voltage_reg:63862-1" (layer "F.Cu")
     (tedit 615793FF) (tstamp 0d86b945-64e9-4651-9ea5-c62eab42eae7)
-    (at 99.31 97.6)
+    (at 99.19 97.6)
     (property "Sheetfile" "max20499_breakout.kicad_sch")
     (property "Sheetname" "")
     (path "/a15f9948-6a51-4d73-a1b4-40405e5dddd2")
@@ -1683,7 +1683,7 @@
 
   (footprint "low_voltage_reg:63862-1" (layer "F.Cu")
     (tedit 615793FF) (tstamp f6ed04a0-ba11-4b67-938a-2ac59d652fb6)
-    (at 156.61 97.6)
+    (at 156.6 97.6)
     (property "Sheetfile" "max20499_breakout.kicad_sch")
     (property "Sheetname" "")
     (path "/a6062802-9d3d-4b23-a052-96e95bd392ee")
