@@ -2,6 +2,8 @@
 
 ## MAX20499C/D
 
+* ACK! Maxim requires signing a NDA to get the complete [MAX20499 datasheet](https://www.maximintegrated.com/en/products/power/switching-regulators/MAX20499.html) weak. *
+- This design appears to work, in it's default output voltage (0.85V). I can't see the I2C register map to change the output voltage without signing a NDA
 - Sorta in stock DK and ME
 - [Product Page](https://www.maximintegrated.com/en/products/power/switching-regulators/MAX20499C.html)
 - Vin; 3-5.5V
